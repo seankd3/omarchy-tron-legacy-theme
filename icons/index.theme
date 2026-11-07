@@ -1,0 +1,12 @@
+[Icon Theme]
+Name=Cinema-Tron-Legacy
+Comment=Folders for the Tron-Legacy film theme
+Inherits=Yaru-prussiangreen-dark,Yaru-dark,Yaru,hicolor
+Directories=scalable/places
+
+[scalable/places]
+Context=Places
+Size=64
+MinSize=8
+MaxSize=512
+Type=Scalable
